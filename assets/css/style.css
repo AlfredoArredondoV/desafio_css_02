@@ -34,7 +34,7 @@ section{
 footer{
     grid-area: footer;
     background-color: #000;
-    height: 5vh;
+    height: 3vh;
     width: 100vw;
     color: #fff;
     text-align: center;
